@@ -1,4 +1,4 @@
-### Hi there, I'm [Serdar!](https://www.linkedin.com/in/serdar-mustafa/) a Self-taught Full-Stack developer from London. 👋.
+### Hi there, I'm [Serdar!](https://www.linkedin.com/in/serdar-mustafa/) a Self-taught Full-Stack MERN developer from London. 👋.
 
 <br/>
 <a href="https://www.linkedin.com/in/serdar-mustafa/">
@@ -25,7 +25,7 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
