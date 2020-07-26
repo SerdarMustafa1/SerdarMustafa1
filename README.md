@@ -1,4 +1,4 @@
-### Hi there, I'm [Serdar!](https://www.linkedin.com/in/serdar-mustafa/) a Self-taught Full-Stack developer from London. 👋.
+### Hi there, I'm [Serdar!](https://www.linkedin.com/in/serdar-mustafa/) a Self-taught Full-Stack MERN developer from London. 👋.
 
 <br/>
 <a href="https://www.linkedin.com/in/serdar-mustafa/">
@@ -25,20 +25,23 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-<img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-<img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-<img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-<img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-<img src="svg/dev/tools/bash.svg" alt="reactNative" style="vertical-align:top; margin:4px">
-<img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/tools/reactNative.svg" alt="reactNative" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/serdarmustafa1/serdarmustafa1/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 </p>
 
 ---
 
 #### Thank You-🙏🏼
+
+
+
