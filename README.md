@@ -3,7 +3,8 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/serdar-mustafa/">
-  <img align="left" alt="Linkedin" width="30px" height='40px' src="svg/social/linkedin.svg" />
+<h4>Connect with me on:</h4>
+  <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 
