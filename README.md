@@ -1,5 +1,4 @@
-### Hi there, I'm [Serdar!](https://www.linkedin.com/in/serdar-mustafa/) a Self-taught Full-Stack developer from London. 👋. 
-
+### Hi there, I'm [Serdar!](https://www.linkedin.com/in/serdar-mustafa/) a Self-taught Full-Stack developer from London. 👋.
 
 <br/>
 <a href="https://www.linkedin.com/in/serdar-mustafa/">
@@ -7,16 +6,16 @@
   <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
+<br/>
 
 **I am Into , 🙏**
 
 **React, React Native, Node.js, Javascript, Motorbikes 🏍 and Martial Arts🥋**
 <br />
 
-
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=serdarmustafa1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-*************
+---
 
 <br />
 
@@ -40,7 +39,6 @@
 
 </p>
 
-***********************************
+---
 
 #### Thank You-🙏🏼
-
